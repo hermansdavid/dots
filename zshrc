@@ -1,4 +1,6 @@
-# elo's .zshrc
+# david's .zshrc
+# davidhermans.be
+
 autoload -Uz compinit
 compinit
 
@@ -17,7 +19,7 @@ PROMPT='%B%F{green}%m %B%F{grey}$%f%b '
 RPROMPT='%B[%b%F{blue}%~%f%B]%b'
 
 # Alias
-alias ls="ls -G"
+alias ls="ls -G"    # use ls --color=auto on linux
 alias l="ls -lh"
 alias la="ls -lah"
 alias l.="ls -d .*"
