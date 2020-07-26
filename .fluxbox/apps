@@ -1,0 +1,10 @@
+[app] (name=fbrun)
+  [Position]	(WINCENTER)	{0 0}
+  [Layer]	{2}
+[end]
+
+[app] (name=firefox-esr)
+  [Workspace] {1}
+  [Dimensions] {width[100%]height[100%]}
+  [Maximized] {yes}
+[end]

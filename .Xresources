@@ -1,0 +1,17 @@
+Xft.dpi: 128
+Xft.antialias: 1
+Xft.rgba: none
+Xft.autohint: 0
+Xft.hinting: 1
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+
+URxvt.letterSpace: 0 
+URxvt.font: xft:Terminus(TTF):size=9
+URxvt.scrollBar: false
+URxvt.lineSpace: 0
+URxvt.cursorBlink: true
+URxvt.internalBorder: 10
+URxvt.perl-ext-common: selection-to-clipboard
+
+#include "/home/elo/.colors/gruvbox"

@@ -1,0 +1,8 @@
+[begin] (MENU)
+[exec] (Terminal) {urxvtc}
+[exec] (Firefox) {firefox-esr}
+[exec] (Nitrogen) {nitrogen}
+[exec] (Lxappearance) {lxappearance}
+[exec] (Thunar) {thunar}
+[include] (/etc/X11/fluxbox/fluxbox-menu)
+[end]
